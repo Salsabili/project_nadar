@@ -1,0 +1,57 @@
+#logo{
+    display: flex;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    margin-top: 49px;
+}
+
+hr{
+    margin-left:5px;
+    background-color: cornflowerblue;
+}
+
+#part3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-text{
+    color: cornsilk;
+}
+
+h3{
+    color: dodgerblue;
+}
+.card-body{
+    background-image:url("https://images.hdqwalls.com/wallpapers/thumb/cargo-ship-4s.jpg");
+}
+
+#Contact{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("http://fivepoints.tn/wp-content/uploads/2018/03/DSCN19052.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: floralwhite;
+}
+h4{
+    text-decoration: overline;
+    font-family: fantasy;
+    font:italic;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#carouselExampleControls{
+    size: 20px;
+}
